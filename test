@@ -1,0 +1,1 @@
+execute at @s align xz if data entity @s {Inventory: [{Slot: 9b, id: "%block%"}]} unless block ~ ~ ~ %block% run summon minecraft:falling_block ~0.5 ~-0.00999 ~0.5 {BlockState:{Name:"%block%", Properties: {BlockHunt: true}}, Time: -1, NoGravity: true, NoAI: true, CustomName: "\"blockhunt_block\"", DropItem: false}

@@ -1,2 +1,0 @@
-# blockhunt
-Minecraft Minigame
