@@ -1,0 +1,1 @@
+execute at @a[team=bh.blocks] run summon firework_rocket ~ ~25 ~ {LifeTime:0,FireworksItem:{id:firework_rocket,Count:1,tag:{Fireworks:{Flight:0,Explosions:[{Type:1,Flicker:0,Trail:0,Colors:[I;3887386],FadeColors:[I;11743532]}]}}}}

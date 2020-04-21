@@ -2,6 +2,12 @@
 {
     "replace": false,
     "values": [
-        "blockhunt:setup"
+        "blockhunt:setup/bossbars",
+        "blockhunt:setup/constants",
+        "blockhunt:setup/dropdetection",
+        "blockhunt:setup/game",
+        "blockhunt:setup/gamerules",
+        "blockhunt:setup/scoreboards",
+        "blockhunt:setup/teams"
     ]
 }

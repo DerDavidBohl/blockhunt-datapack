@@ -1,0 +1,1 @@
+function blockhunt:game/change/state/to/stopped
